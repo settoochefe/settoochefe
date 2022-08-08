@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @settoochefe
-- 👀 Estou interessado em 
+- 👀 Estou interessado em aprender programação
 - 🌱 atualmente estou aprendendo pensamento computacional ...
 - 📫 Como chegar até mim: settsincero@gmail.com ...
 
